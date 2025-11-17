@@ -1,2 +1,2 @@
-# test
-test amaçlı
+# test değil
+test amaçlı değil
